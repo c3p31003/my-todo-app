@@ -69,7 +69,3 @@ Displays all todos in the console format.
 - Implement categories or tags
 - Add priority levels
 - Enable data persistence with a database
-
-## License
-
-This project is open source and available under the MIT License.
